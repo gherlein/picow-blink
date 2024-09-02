@@ -1,8 +1,8 @@
-# Basic Pico Access Point Test App
+# Basic PicoW Blink App
+
+Blinks the LED on a PicoW.  This repo is for reference only, really.
 
 Derived from [Visual Studio Code-Ready Template Project for RP2040 using Picoprobe](https://github.com/gherlein/pico-template).
-
-
 
 
 ## Prerequisites
