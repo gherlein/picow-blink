@@ -1,6 +1,9 @@
-# Visual Studio Code-Ready Template Project for RP2040 using Picoprobe
+# Basic Pico Access Point Test App
 
-A template project for quick-starting C-based RP2040 Raspberry Pi Pico projects in Visual Studio Code, using the picoprobe programmer.
+Derived from [Visual Studio Code-Ready Template Project for RP2040 using Picoprobe](https://github.com/gherlein/pico-template).
+
+
+
 
 ## Prerequisites
 
@@ -39,7 +42,7 @@ pico_enable_stdio_uart(main 1)
 
 USB is over the power/usb port, and uart is for the uart1 on physical pins 1 and 2.
 
-This template assumes you are using the picoprobe, and you have the picoprobes serial pins attached to pins 1-2-3.  You can then use the uart and choose to either not use the usb port at all or only use it for power.
+This template assumes you are using the picoprobe, and you have the picoprobes serial pins attached to pins 1-2-3.  You can then use the uart and choose to either not use the usb port )at all or only use it for power.
 
 ### Including Anything Interesting
 
